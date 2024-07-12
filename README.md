@@ -3,7 +3,8 @@
   🔭 Currently learning to code...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvik37&show_icons=true&theme=yeblu)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik47&repo=color-picker-react)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=color-picker-react)]
+
 
 
 <!--
