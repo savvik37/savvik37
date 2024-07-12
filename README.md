@@ -6,7 +6,7 @@
 
   💿 Latest Project
   
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=color-picker-react&show_icons=true&theme=yeblu)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=color-picker-react&show_icons=true&theme=yeblu)
 
 
 
