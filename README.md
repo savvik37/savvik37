@@ -8,7 +8,7 @@
   
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=color-picker-react&show_icons=true&theme=yeblu)
 
-
+<a href="https://app.daily.dev/rinse3000"><img src="https://api.daily.dev/devcards/v2/TeVyZzJ2Uq27MImrQp4Wt.png?type=default&r=20x" width="356" alt="Sav's Dev Card"/></a>
 
 <!--
 **savvik37/savvik37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
