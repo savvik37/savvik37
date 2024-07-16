@@ -1,13 +1,12 @@
 ## hi, im savvik37👋
   🎓 Soon to be UoP graduate\
   🔭 Currently learning to code...
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvik37&show_icons=true&theme=yeblu)
 
   💿 Latest Project
-  
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=color-picker-react&show_icons=true&theme=yeblu)
 
+  📚daily.dev
 <a href="https://app.daily.dev/rinse3000"><img src="https://api.daily.dev/devcards/v2/TeVyZzJ2Uq27MImrQp4Wt.png?type=default&r=20x" width="356" alt="Sav's Dev Card"/></a>
 
 <!--
