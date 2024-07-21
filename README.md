@@ -6,7 +6,7 @@
 
   💿 Latest Project
   
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=rinsetools&show_icons=true&theme=yeblu)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=nextjs-rinsetools-1&show_icons=true&theme=yeblu)
 
   📚daily.dev
   
