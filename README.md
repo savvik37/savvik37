@@ -1,12 +1,12 @@
 ## hi, im savvik37👋
-  🎓 Soon to be UoP graduate\
-  🔭 Currently learning DSA...
+  🎓 UoP Computing Graduate\
+  🔭 Web Development and Software Engineering
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvik37&show_icons=true&theme=yeblu)
 
   💿 Latest Project
   
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=color-picker-react&show_icons=true&theme=yeblu)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=rinsetools&show_icons=true&theme=yeblu)
 
   📚daily.dev
   
