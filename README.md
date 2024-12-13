@@ -6,7 +6,7 @@
 
   💿 Latest Project
   
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=fyp-spotofy-api&show_icons=true&theme=yeblu)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=fyp-spotify-api&show_icons=true&theme=yeblu)
 
   📚daily.dev
   
