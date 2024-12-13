@@ -2,11 +2,11 @@
   🎓 UoP Computing Graduate\
   🔭 Web Development and Software Engineering
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvik37&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvik37&show_icons=true&theme=codeSTACKr)
 
   💿 Latest Project
   
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=fyp-spotify-api&show_icons=true&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=fyp-spotify-api&show_icons=true&theme=codeSTACKr)
 
   📚daily.dev
   
