@@ -2,18 +2,12 @@
   🎓 UoP Computing Graduate\
   🔭 Web Development and Software Engineering
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvik37&show_icons=true&theme=codeSTACKr)
-
-  💿 Latest Project
-  
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savvik37&repo=fyp-spotify-api&show_icons=true&theme=codeSTACKr)
-
-  📚daily.dev
-  
-<a href="https://app.daily.dev/rinse3000"><img src="https://api.daily.dev/devcards/v2/TeVyZzJ2Uq27MImrQp4Wt.png?type=default&r=20x" width="356" alt="Sav's Dev Card"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvik37&show_icons=true&theme=codeSTACKr)]
 
 <!--
 **savvik37/savvik37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+
 
 Here are some ideas to get you started:
 
