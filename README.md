@@ -1,5 +1,5 @@
 ## hi, im savvik37👋
-  🎓 UoP Computing Graduate\
+  🎓 UoP Computing Graduate
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvik37&show_icons=false&theme=codeSTACKr)
 
